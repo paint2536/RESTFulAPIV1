@@ -1,0 +1,4 @@
+- Maven
+- JDK 8
+- Spring Boot
+- springfox-swagger2
